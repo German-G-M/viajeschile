@@ -17,4 +17,19 @@ body{
 .carousel-inner div img{
     height:40em;
 }
+.barra{
+    background-color:#17A2B8 ;
+    text-align: center;
+    padding: 0.15rem 0;
+}
+.card, footer{
+    background-color:#17A2B8 ;
+
+}
+.card img{
+    height:15rem;
+}
+footer div h3{
+    vertical-align:middle;
+}
 
