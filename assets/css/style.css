@@ -1,8 +1,20 @@
+html{
+    scroll-behavior: smooth;
+}
 body{
     font-family: 'Raleway', sans-serif;
+    background-color: black;
+    color:white;
 }
 .navbar{
     /*opacity:0.1;*/
     background-color: none;
     color:white
 }
+.linea{
+    border-bottom: solid #17A2B8;
+}
+.carousel-inner div img{
+    height:40em;
+}
+
