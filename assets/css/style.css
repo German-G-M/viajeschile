@@ -36,4 +36,15 @@ footer div a,a:hover{
     color: white;
     text-decoration: none !important;
 }
+@media only screen and (max-width:768px){
+    #presentacion{
+        display:none; /* para desaparecer cuando se haga pequeño (cuando sea menor a 768px*/
+    }
+    
+}
+#formulario{
+    background-color: white;
+    margin: 2rem 4rem;
+    color:#17A2B8;
+}
 
