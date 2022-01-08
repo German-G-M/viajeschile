@@ -32,4 +32,8 @@ body{
 footer div h3{
     vertical-align:middle;
 }
+footer div a,a:hover{
+    color: white;
+    text-decoration: none !important;
+}
 
